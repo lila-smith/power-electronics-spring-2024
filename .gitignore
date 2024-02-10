@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # Outputs
-.xopp
-.html
+*.xopp
+*.html
